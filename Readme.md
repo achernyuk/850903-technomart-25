@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Чернюк](https://up.htmlacademy.ru/htmlcss/25/user/850903).
-* Наставник: `Неизвестно`.
+* Наставник: [Stepan Kurkin](https://htmlacademy.ru/profile/id922331).
 
 ---
 
